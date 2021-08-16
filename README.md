@@ -1,6 +1,6 @@
 # SaudiArabia-To-Bahrain-Time
-How much time will take you to cross Bahrain borders from Saudi Arabia? 
-and how much time to return to Saudi Arabia from Bahrain?
+- How much time will take you to cross Bahrain borders from Saudi Arabia?
+- How much time to return to Saudi Arabia from Bahrain?
 ![sample](https://github.com/akaSalah/SaudiArabia-To-Bahrain-Time/blob/main/sample.png?raw=true)
 
 ## Usage 
