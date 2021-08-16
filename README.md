@@ -1,4 +1,7 @@
 # SaudiArabia-To-Bahrain-Time
+How much time will take you to cross Bahrain borders from Saudi Arabia? 
+and how much time to return to Saudi Arabia from Bahrain?
+
 
 
 ## Usage 
